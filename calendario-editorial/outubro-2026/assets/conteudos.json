@@ -39,7 +39,7 @@
     "pillar": "Especialidades e estrutura",
     "status": "Arte final · pronta para publicar",
     "h1": "Diferentes especialidades para cuidar da sua visão, em um só lugar.",
-    "h2": "Catarata, retina, pediatria e estrabismo, com atenção especial à saúde da sua retina.",
+    "h2": "Cirurgia de catarata, retina e vítreo, estrabismo e cirurgia refrativa. Diagnóstico e tratamento com tecnologia e atendimento especializado.",
     "caption": "Um hospital, muitas frentes de cuidado com os olhos.\n\nO Oftalmos Day Hospital reúne especialistas em catarata, retina, pediatria e estrabismo — com destaque especial pro cuidado com a retina, uma das áreas mais delicadas da saúde ocular.\n\nQual dessas especialidades você não conhecia? Comenta aqui. #oftalmosdayhospital #retina #especialidades #piracicaba",
     "visual": "Infográfico com ícones das especialidades do hospital (catarata, retina, pediatria, estrabismo), destacando o ícone de retina em maior tamanho/cor de destaque — reforçando a especialidade de maior foco do cliente.",
     "image": "assets/2026-10-16_I1_final.png"
@@ -106,27 +106,6 @@
     "image": "assets/2026-10-29_I3_final.png"
   },
   {
-    "id": "V4",
-    "date": "2026-11-03",
-    "title": "Diabetes e a retina (Novembro Azul)",
-    "type": "Vídeo · data comemorativa",
-    "format": "reel",
-    "pillar": "Prevenção e rotina",
-    "status": "Roteiro definido · vídeo a produzir",
-    "objective": "Aproveitar o gancho de Novembro Azul / Dia Mundial do Diabetes (14/11) pra reforçar a relação entre diabetes e saúde da retina.",
-    "script": "Você sabia que diabetes também é assunto de oftalmologista? A retinopatia diabética é uma das principais causas de perda de visão em pessoas com diabetes. O problema é que, nas fases iniciais, ela costuma não dar sintoma nenhum. Por isso, quem tem diabetes precisa manter o exame de retina em dia — mesmo sem sentir nada. Tem diabetes ou alguém da família tem? Fala com a gente pelo link da bio.",
-    "screen": [
-      "DIABETES E A SUA RETINA",
-      "RETINOPATIA DIABÉTICA",
-      "SEM SINTOMAS NO INÍCIO",
-      "NOVEMBRO: MÊS DE ATENÇÃO",
-      "LINK NA BIO PRA AGENDAR"
-    ],
-    "caption": "Diabetes também é assunto de oftalmologista.\n\nA retinopatia diabética é uma das principais causas de perda de visão em pessoas com diabetes — e muitas vezes não dá sintomas nas fases iniciais. Novembro é mês de atenção à saúde do homem e à prevenção do diabetes.\n\nTem diabetes ou alguém da família tem? Guarda esse post. #novembroazul #diabetes #retinopatiadiabetica #retina #oftalmosdayhospital",
-    "notice": "Avatar de IA e simulações: o vídeo exibe fixo em tela o aviso \"Conteúdo ilustrativo gerado por IA\".",
-    "visual": "Avatar com expressão atenta, fundo neutro.; Simulação de IA de vasos da retina afetados.; Avatar explicando.; Tipografia sobre fundo da marca, ícone de Novembro Azul.; Logo Oftalmos Day Hospital centralizado."
-  },
-  {
     "id": "JB4",
     "type": "Vídeo · Dr. João",
     "format": "reel",
@@ -135,12 +114,26 @@
     "caption": "",
     "notice": "Gravação real com o médico. Não se aplica o aviso de conteúdo gerado por IA.",
     "visual": "Médico falando direto para a câmera, vertical.",
-    "date": "2026-11-05",
+    "date": "2026-11-03",
     "title": "Pós-operatório da cirurgia de catarata",
     "status": "Bruto, a editar",
     "script": "Como é o pós-operatório da cirurgia de catarata? O pós-operatório da cirurgia de catarata é bastante simples. No dia da cirurgia, após 20, 30 minutos da cirurgia, a pessoa já terá condições de ir para casa, só que é acompanhada do familiar, ela não pode dirigir o carro nesse retorno para sua casa. Já na semana seguinte à cirurgia, o próprio paciente já poderá vir dirigindo o carro, já terá condições para isso e uma visão adequada para isso. Então é uma recuperação rápida, deve-se apenas evitar esforços físicos muito intensos nos primeiros 15 dias após a cirurgia, para que isso não atrapalhe o processo de cicatrização da incisão da cirurgia. Eu sou o doutor João Braulio de Oliveira, do Fitalmos D.I. Hospital.",
-    "thumb": "assets/2026-11-05_JB4_thumb.png",
+    "thumb": "assets/2026-11-03_JB4_thumb.png",
     "thumb_nota": "Prévia montada a partir de um quadro da própria gravação. Não é a arte final do vídeo."
+  },
+  {
+    "id": "I5",
+    "date": "2026-11-05",
+    "title": "Novembro Azul — diabetes e a retina",
+    "type": "Card de feed · data",
+    "format": "card",
+    "pillar": "Prevenção e rotina",
+    "status": "Arte final · pronta para publicar",
+    "h1": "Diabetes e a sua retina.",
+    "h2": "A retinopatia diabética é uma das principais causas de perda de visão em pessoas com diabetes e, nas fases iniciais, costuma não dar sintomas.",
+    "image": "assets/2026-11-05_I5_final.png",
+    "caption": "Diabetes também é assunto de oftalmologista.\n\nA retinopatia diabética é uma das principais causas de perda de visão em pessoas com diabetes — e muitas vezes não dá sintomas nas fases iniciais. Novembro é mês de atenção à saúde do homem e à prevenção do diabetes.\n\nTem diabetes ou alguém da família tem? Guarda esse post. #novembroazul #diabetes #retinopatiadiabetica #retina #oftalmosdayhospital",
+    "visual": "Laço de Novembro Azul, tela de exame de retina e chamada para agendamento pelo link da bio."
   },
   {
     "id": "JB5",
@@ -171,6 +164,6 @@
     "h2": "Estrutura, tecnologia e equipe para acompanhar sua saúde ocular, com atenção especial à retina.",
     "caption": "Cuidar da retina é cuidar de como você vê o mundo.\n\nO Oftalmos Day Hospital tem a estrutura, a tecnologia e a equipe pra cuidar da sua visão em todas as fases — com atenção especial pra sua retina.\n\nBora agendar sua avaliação? O link pra falar com a gente está na bio. #oftalmosdayhospital #retina #piracicaba #saúdeocular",
     "visual": "Arte de fechamento na identidade visual do hospital, reforçando a retina como diferencial, com chamada direta para o link da bio.",
-    "image": "assets/2026-11-05_I4_final.png"
+    "image": "assets/2026-11-12_I4_final.png"
   }
 ]
