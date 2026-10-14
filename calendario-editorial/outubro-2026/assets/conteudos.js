@@ -12,7 +12,8 @@ window.OFTALMOS_POSTS = [
     "h2": "Para nós do Oftalmos, é uma honra fazer parte desse cuidado.",
     "image": "assets/2026-10-09_E1_dia-mundial-da-visao.png",
     "caption": "",
-    "visual": "Casal lendo em casa, composição contínua com o traço da marca no canto superior. A tarja da arte marca 08 de outubro, data da efeméride; a publicação saiu em 09/10."
+    "visual": "Casal lendo em casa, composição contínua com o traço da marca no canto superior. A tarja da arte marca 08 de outubro, data da efeméride; a publicação saiu em 09/10.",
+    "caption_nota": "Legenda a produzir. Precisa encerrar com a assinatura do diretor técnico."
   },
   {
     "id": "JB1",
@@ -28,7 +29,8 @@ window.OFTALMOS_POSTS = [
     "notice": "Gravação real com o médico. Não se aplica o aviso de conteúdo gerado por IA.",
     "visual": "Médico falando direto para a câmera, vertical.",
     "thumb": "assets/2026-10-15_JB1_thumb.png",
-    "thumb_nota": "Prévia montada a partir de um quadro da própria gravação. Não é a arte final do vídeo."
+    "thumb_nota": "Prévia montada a partir de um quadro da própria gravação. Não é a arte final do vídeo.",
+    "caption_nota": "Legenda a produzir. Precisa encerrar com a assinatura do diretor técnico."
   },
   {
     "id": "I1",
@@ -40,7 +42,7 @@ window.OFTALMOS_POSTS = [
     "status": "Arte final · pronta para publicar",
     "h1": "Diferentes especialidades para cuidar da sua visão, em um só lugar.",
     "h2": "Cirurgia de catarata, retina e vítreo, estrabismo e cirurgia refrativa. Diagnóstico e tratamento com tecnologia e atendimento especializado.",
-    "caption": "Um hospital, muitas frentes de cuidado com os olhos.\n\nO Oftalmos Day Hospital reúne especialistas em catarata, retina, pediatria e estrabismo — com destaque especial pro cuidado com a retina, uma das áreas mais delicadas da saúde ocular.\n\nQual dessas especialidades você não conhecia? Comenta aqui. #oftalmosdayhospital #retina #especialidades #piracicaba",
+    "caption": "Um hospital, muitas frentes de cuidado com os olhos.\n\nO Oftalmos Day Hospital reúne especialistas em catarata, retina, pediatria e estrabismo — com destaque especial pro cuidado com a retina, uma das áreas mais delicadas da saúde ocular.\n\nQual dessas especialidades você não conhecia? Comenta aqui. #oftalmosdayhospital #retina #especialidades #piracicaba\n\nOftalmos Day Hospital | Registro CRM 936635-SP\nDiretor técnico: Dr. João Bráulio de Oliveira, médico | CRM 69536 | RQE 22837",
     "visual": "Infográfico com ícones das especialidades do hospital (catarata, retina, pediatria, estrabismo), destacando o ícone de retina em maior tamanho/cor de destaque — reforçando a especialidade de maior foco do cliente.",
     "image": "assets/2026-10-16_I1_final.png"
   },
@@ -58,7 +60,8 @@ window.OFTALMOS_POSTS = [
     "notice": "Gravação real com o médico. Não se aplica o aviso de conteúdo gerado por IA.",
     "visual": "Médico falando direto para a câmera, vertical.",
     "thumb": "assets/2026-10-20_JB2_thumb.png",
-    "thumb_nota": "Prévia montada a partir de um quadro da própria gravação. Não é a arte final do vídeo."
+    "thumb_nota": "Prévia montada a partir de um quadro da própria gravação. Não é a arte final do vídeo.",
+    "caption_nota": "Legenda a produzir. Precisa encerrar com a assinatura do diretor técnico."
   },
   {
     "id": "I2",
@@ -70,7 +73,7 @@ window.OFTALMOS_POSTS = [
     "status": "Arte final · pronta para publicar",
     "h1": "Sua visão merece cuidado em todas as fases da vida.",
     "h2": "Da avaliação pediátrica aos exames de retina, acompanhamento para crianças, adultos e idosos.",
-    "caption": "Da infância à terceira idade, a retina pede cuidado em todas as fases da vida.\n\nO Oftalmos Day Hospital foi estruturado pra atender todas as idades, com acompanhamento adequado pra cada momento — da avaliação pediátrica aos cuidados preventivos na maturidade.\n\nMarca aqui alguém da sua família pra quem esse cuidado é importante. #oftalmosdayhospital #saúdeocular #retina #piracicaba",
+    "caption": "Da infância à terceira idade, a retina pede cuidado em todas as fases da vida.\n\nO Oftalmos Day Hospital foi estruturado pra atender todas as idades, com acompanhamento adequado pra cada momento — da avaliação pediátrica aos cuidados preventivos na maturidade.\n\nMarca aqui alguém da sua família pra quem esse cuidado é importante. #oftalmosdayhospital #saúdeocular #retina #piracicaba\n\nOftalmos Day Hospital | Registro CRM 936635-SP\nDiretor técnico: Dr. João Bráulio de Oliveira, médico | CRM 69536 | RQE 22837",
     "visual": "Arte institucional com silhuetas representando diferentes idades (criança, adulto, idoso), reforçando que a estrutura atende todas as fases — incluindo o acompanhamento da retina ao longo da vida.",
     "image": "assets/2026-10-22_I2_final.png"
   },
@@ -89,7 +92,8 @@ window.OFTALMOS_POSTS = [
     "visual": "Médico falando direto para a câmera, vertical.",
     "thumb": "assets/2026-10-27_JB3_thumb.png",
     "thumb_nota": "Prévia montada a partir de um quadro da própria gravação. Não é a arte final do vídeo.",
-    "compliance": "PROIBIDO manter 'dá um resultado já de imediato, o dia seguinte já tem uma boa visão' (46s). Promessa de resultado, vedada pela CFM 2.336/2023. Cortar na edição e não repetir na legenda."
+    "compliance": "PROIBIDO manter 'dá um resultado já de imediato, o dia seguinte já tem uma boa visão' (46s). Promessa de resultado, vedada pela CFM 2.336/2023. Cortar na edição e não repetir na legenda.",
+    "caption_nota": "Legenda a produzir. Precisa encerrar com a assinatura do diretor técnico."
   },
   {
     "id": "I3",
@@ -101,7 +105,7 @@ window.OFTALMOS_POSTS = [
     "status": "Arte final · pronta para publicar",
     "h1": "Cuidar da sua visão começa com exames de rotina.",
     "h2": "O mapeamento avalia o fundo do olho. O OCT detalha as camadas da retina, quando indicado.",
-    "caption": "Prevenção começa com rotina, não com pressa.\n\nFazer o exame de retina regularmente é uma das formas mais eficazes de identificar alterações antes que se tornem um problema maior.\n\nQuando foi seu último exame de retina? Comenta aqui. #examederetina #prevencao #retina #saúdeocular #oftalmosdayhospital",
+    "caption": "Prevenção começa com rotina, não com pressa.\n\nFazer o exame de retina regularmente é uma das formas mais eficazes de identificar alterações antes que se tornem um problema maior.\n\nQuando foi seu último exame de retina? Comenta aqui. #examederetina #prevencao #retina #saúdeocular #oftalmosdayhospital\n\nOftalmos Day Hospital | Registro CRM 936635-SP\nDiretor técnico: Dr. João Bráulio de Oliveira, médico | CRM 69536 | RQE 22837",
     "visual": "Card educativo simples, ícone de calendário + olho na identidade visual do hospital, reforçando a importância da rotina de exames.",
     "image": "assets/2026-10-29_I3_final.png"
   },
@@ -119,7 +123,8 @@ window.OFTALMOS_POSTS = [
     "status": "Bruto, a editar",
     "script": "Como é o pós-operatório da cirurgia de catarata? O pós-operatório da cirurgia de catarata é bastante simples. No dia da cirurgia, após 20, 30 minutos da cirurgia, a pessoa já terá condições de ir para casa, só que é acompanhada do familiar, ela não pode dirigir o carro nesse retorno para sua casa. Já na semana seguinte à cirurgia, o próprio paciente já poderá vir dirigindo o carro, já terá condições para isso e uma visão adequada para isso. Então é uma recuperação rápida, deve-se apenas evitar esforços físicos muito intensos nos primeiros 15 dias após a cirurgia, para que isso não atrapalhe o processo de cicatrização da incisão da cirurgia. Eu sou o doutor João Braulio de Oliveira, do Fitalmos D.I. Hospital.",
     "thumb": "assets/2026-11-03_JB4_thumb.png",
-    "thumb_nota": "Prévia montada a partir de um quadro da própria gravação. Não é a arte final do vídeo."
+    "thumb_nota": "Prévia montada a partir de um quadro da própria gravação. Não é a arte final do vídeo.",
+    "caption_nota": "Legenda a produzir. Precisa encerrar com a assinatura do diretor técnico."
   },
   {
     "id": "I5",
@@ -132,7 +137,7 @@ window.OFTALMOS_POSTS = [
     "h1": "Diabetes e a sua retina.",
     "h2": "A retinopatia diabética é uma das principais causas de perda de visão em pessoas com diabetes e, nas fases iniciais, costuma não dar sintomas.",
     "image": "assets/2026-11-05_I5_final.png",
-    "caption": "Diabetes também é assunto de oftalmologista.\n\nA retinopatia diabética é uma das principais causas de perda de visão em pessoas com diabetes — e muitas vezes não dá sintomas nas fases iniciais. Novembro é mês de atenção à saúde do homem e à prevenção do diabetes.\n\nTem diabetes ou alguém da família tem? Guarda esse post. #novembroazul #diabetes #retinopatiadiabetica #retina #oftalmosdayhospital",
+    "caption": "Diabetes também é assunto de oftalmologista.\n\nA retinopatia diabética é uma das principais causas de perda de visão em pessoas com diabetes — e muitas vezes não dá sintomas nas fases iniciais. Novembro é mês de atenção à saúde do homem e à prevenção do diabetes.\n\nTem diabetes ou alguém da família tem? Guarda esse post. #novembroazul #diabetes #retinopatiadiabetica #retina #oftalmosdayhospital\n\nOftalmos Day Hospital | Registro CRM 936635-SP\nDiretor técnico: Dr. João Bráulio de Oliveira, médico | CRM 69536 | RQE 22837",
     "visual": "Laço de Novembro Azul, tela de exame de retina e chamada para agendamento pelo link da bio."
   },
   {
@@ -150,7 +155,8 @@ window.OFTALMOS_POSTS = [
     "script": "o que são lentes introculares. Nas cirurgias de catarata, sempre colocamos no olho uma lente introcular para substituir o mesmo papel que antigamente era feito pelo cristalino. Existem muitos tipos e muitas marcas de lentes introculares, mas num resumo a gente diria que as lentes são do tipo monofocais ou do tipo multifocais. São dois grandes grupos. Dentro das lentes monofocais a gente tem as lentes tóricas e as lentes não tóricas. As lentes tóricas são para aqueles pacientes que possuem astigmatismo alto e querem corrigir só sua miopia, mas também o astigmatismo. As lentes não tóricas são para as pessoas que não têm astigmatismo. Já as lentes multifocais, elas são lentes principalmente de dois grandes grupos. As lentes de foco estendido são para pessoas que querem ter a visão de longe e a visão de meia distância. Como alguém que está dirigindo o carro, quer ver bem a pista e quer ver também o painel do carro. E tem as lentes trifocais, que são para pessoas que não querem mais usar óculos em nenhuma situação. Então elas dão visão boa para longe, para meia distância e para aberto. São as lentes trifocais. Sempre haverá a necessidade do seu médico conversar e avaliar o seu caso para decidir qual tipo de lente será utilizada. Eu sou o doutor João Braulio de Oliveira do oftalmos de hospital.",
     "thumb": "assets/2026-11-10_JB5_thumb.png",
     "thumb_nota": "Prévia montada a partir de um quadro da própria gravação. Não é a arte final do vídeo.",
-    "compliance": "Manter obrigatoriamente o fecho: 'Sempre haverá a necessidade do seu médico conversar e avaliar o seu caso para decidir qual tipo de lente será utilizada.'"
+    "compliance": "Manter obrigatoriamente o fecho: 'Sempre haverá a necessidade do seu médico conversar e avaliar o seu caso para decidir qual tipo de lente será utilizada.'",
+    "caption_nota": "Legenda a produzir. Precisa encerrar com a assinatura do diretor técnico."
   },
   {
     "id": "I4",
@@ -162,7 +168,7 @@ window.OFTALMOS_POSTS = [
     "status": "Arte final · pronta para publicar",
     "h1": "No Oftalmos Day, você encontra cuidado da avaliação ao tratamento.",
     "h2": "Estrutura, tecnologia e equipe para acompanhar sua saúde ocular, com atenção especial à retina.",
-    "caption": "Cuidar da retina é cuidar de como você vê o mundo.\n\nO Oftalmos Day Hospital tem a estrutura, a tecnologia e a equipe pra cuidar da sua visão em todas as fases — com atenção especial pra sua retina.\n\nBora agendar sua avaliação? O link pra falar com a gente está na bio. #oftalmosdayhospital #retina #piracicaba #saúdeocular",
+    "caption": "Cuidar da retina é cuidar de como você vê o mundo.\n\nO Oftalmos Day Hospital tem a estrutura, a tecnologia e a equipe pra cuidar da sua visão em todas as fases — com atenção especial pra sua retina.\n\nBora agendar sua avaliação? O link pra falar com a gente está na bio. #oftalmosdayhospital #retina #piracicaba #saúdeocular\n\nOftalmos Day Hospital | Registro CRM 936635-SP\nDiretor técnico: Dr. João Bráulio de Oliveira, médico | CRM 69536 | RQE 22837",
     "visual": "Arte de fechamento na identidade visual do hospital, reforçando a retina como diferencial, com chamada direta para o link da bio.",
     "image": "assets/2026-11-12_I4_final.png"
   }
