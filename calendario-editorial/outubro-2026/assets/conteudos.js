@@ -35,12 +35,12 @@ window.OFTALMOS_POSTS = [
     "type": "Card de feed",
     "format": "card",
     "pillar": "Especialidades e estrutura",
-    "status": "Arte produzida · em aprovação visual",
-    "h1": "Diferentes especialidades, um só lugar para cuidar da sua visão.",
+    "status": "Arte final · pronta para publicar",
+    "h1": "Diferentes especialidades para cuidar da sua visão, em um só lugar.",
     "h2": "Catarata, retina, pediatria e estrabismo, com atenção especial à saúde da sua retina.",
     "caption": "Um hospital, muitas frentes de cuidado com os olhos.\n\nO Oftalmos Day Hospital reúne especialistas em catarata, retina, pediatria e estrabismo — com destaque especial pro cuidado com a retina, uma das áreas mais delicadas da saúde ocular.\n\nQual dessas especialidades você não conhecia? Comenta aqui. #oftalmosdayhospital #retina #especialidades #piracicaba",
     "visual": "Infográfico com ícones das especialidades do hospital (catarata, retina, pediatria, estrabismo), destacando o ícone de retina em maior tamanho/cor de destaque — reforçando a especialidade de maior foco do cliente.",
-    "image": "assets/2026-10-16_I1_especialidades.png"
+    "image": "assets/2026-10-16_I1_final.png"
   },
   {
     "id": "JB2",
@@ -63,11 +63,12 @@ window.OFTALMOS_POSTS = [
     "type": "Card de feed",
     "format": "card",
     "pillar": "Especialidades e estrutura",
-    "status": "Copy aprovada · arte em produção",
+    "status": "Arte final · pronta para publicar",
     "h1": "Sua visão merece cuidado em todas as fases da vida.",
     "h2": "Da avaliação pediátrica aos exames de retina, acompanhamento para crianças, adultos e idosos.",
     "caption": "Da infância à terceira idade, a retina pede cuidado em todas as fases da vida.\n\nO Oftalmos Day Hospital foi estruturado pra atender todas as idades, com acompanhamento adequado pra cada momento — da avaliação pediátrica aos cuidados preventivos na maturidade.\n\nMarca aqui alguém da sua família pra quem esse cuidado é importante. #oftalmosdayhospital #saúdeocular #retina #piracicaba",
-    "visual": "Arte institucional com silhuetas representando diferentes idades (criança, adulto, idoso), reforçando que a estrutura atende todas as fases — incluindo o acompanhamento da retina ao longo da vida."
+    "visual": "Arte institucional com silhuetas representando diferentes idades (criança, adulto, idoso), reforçando que a estrutura atende todas as fases — incluindo o acompanhamento da retina ao longo da vida.",
+    "image": "assets/2026-10-22_I2_final.png"
   },
   {
     "id": "JB3",
@@ -90,11 +91,12 @@ window.OFTALMOS_POSTS = [
     "type": "Card de feed",
     "format": "card",
     "pillar": "Prevenção e rotina",
-    "status": "Copy aprovada · arte em produção",
+    "status": "Arte final · pronta para publicar",
     "h1": "Cuidar da sua visão começa com exames de rotina.",
     "h2": "O mapeamento avalia o fundo do olho. O OCT detalha as camadas da retina, quando indicado.",
     "caption": "Prevenção começa com rotina, não com pressa.\n\nFazer o exame de retina regularmente é uma das formas mais eficazes de identificar alterações antes que se tornem um problema maior.\n\nQuando foi seu último exame de retina? Comenta aqui. #examederetina #prevencao #retina #saúdeocular #oftalmosdayhospital",
-    "visual": "Card educativo simples, ícone de calendário + olho na identidade visual do hospital, reforçando a importância da rotina de exames."
+    "visual": "Card educativo simples, ícone de calendário + olho na identidade visual do hospital, reforçando a importância da rotina de exames.",
+    "image": "assets/2026-10-29_I3_final.png"
   },
   {
     "id": "V4",
@@ -124,10 +126,11 @@ window.OFTALMOS_POSTS = [
     "type": "Card de feed",
     "format": "card",
     "pillar": "Convite ao cuidado",
-    "status": "Copy aprovada · arte em produção",
+    "status": "Arte final · pronta para publicar",
     "h1": "No Oftalmos Day, você encontra cuidado da avaliação ao tratamento.",
     "h2": "Estrutura, tecnologia e equipe para acompanhar sua saúde ocular, com atenção especial à retina.",
     "caption": "Cuidar da retina é cuidar de como você vê o mundo.\n\nO Oftalmos Day Hospital tem a estrutura, a tecnologia e a equipe pra cuidar da sua visão em todas as fases — com atenção especial pra sua retina.\n\nBora agendar sua avaliação? O link pra falar com a gente está na bio. #oftalmosdayhospital #retina #piracicaba #saúdeocular",
-    "visual": "Arte de fechamento na identidade visual do hospital, reforçando a retina como diferencial, com chamada direta para o link da bio."
+    "visual": "Arte de fechamento na identidade visual do hospital, reforçando a retina como diferencial, com chamada direta para o link da bio.",
+    "image": "assets/2026-11-05_I4_final.png"
   }
 ];
