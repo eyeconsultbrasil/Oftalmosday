@@ -26,7 +26,9 @@ window.OFTALMOS_POSTS = [
     "script": "O que é a catarata? Catarata é uma lente de dentro do nosso olho que ao longo da vida vai perdendo a sua transparência. Ela vai deixando de ser uma vidraça limpinha de transparência perfeita e vai se tornando igual ao vidro do carro quando está chovendo, um pouco embaçado. Isso é um processo natural, é o envelhecimento da gente. Uma comparação bem simplória é como o cabelo branco da gente. Com o passar da idade a gente passa a ter o cabelo branco. O cristalino vai perdendo sua transparência e com isso a imagem vai perdendo sua qualidade e após perder a qualidade vai perdendo a quantidade de visão e começa então a atrapalhar atividades que as pessoas gostam de fazer no dia a dia. Aí vai chegando o momento em que passa a ser necessário operar a catarata. Eu sou o Dr. João Braulio de Oliveira do Ficalmus Day Hospital.",
     "caption": "",
     "notice": "Gravação real com o médico. Não se aplica o aviso de conteúdo gerado por IA.",
-    "visual": "Médico falando direto para a câmera, vertical."
+    "visual": "Médico falando direto para a câmera, vertical.",
+    "thumb": "assets/2026-10-14_JB1_thumb.png",
+    "thumb_nota": "Prévia montada a partir de um quadro da gravação. Não é a arte final do vídeo."
   },
   {
     "id": "I1",
@@ -54,7 +56,9 @@ window.OFTALMOS_POSTS = [
     "script": "Será que eu preciso operar a catarata? Essa é a pergunta que os pacientes nos fazem. Isso depende do dia a dia do paciente, de suas necessidades. Não existe pressa em ter que operar a catarata para ontem, de imediato. A catarata, a gente escolhe a data, a época de operar e acaba sendo oportuno operar quando ela começa a atrapalhar as atividades diárias do paciente. Tem desde o paciente que já está aposentado em casa, com poucas necessidades em dirigir e ler, até o paciente que está em plena vida ativa, dirigindo, lendo contratos, precisando de uma visão perfeita para desempenhar sua provisão. Então a gente deixa para operar a catarata quando o paciente sente que as atividades que gosta de fazer estão mais difíceis. Eu sou João Braulio de Oliveira do Oftalmos Day Hospital. Eu sou Dr. João Braulio de Oliveira do Oftalmos Day Hospital.",
     "caption": "",
     "notice": "Gravação real com o médico. Não se aplica o aviso de conteúdo gerado por IA.",
-    "visual": "Médico falando direto para a câmera, vertical."
+    "visual": "Médico falando direto para a câmera, vertical.",
+    "thumb": "assets/2026-10-20_JB2_thumb.png",
+    "thumb_nota": "Prévia montada a partir de um quadro da gravação. Não é a arte final do vídeo."
   },
   {
     "id": "I2",
@@ -82,7 +86,9 @@ window.OFTALMOS_POSTS = [
     "script": "o que são lentes introculares. Nas cirurgias de catarata, sempre colocamos no olho uma lente introcular para substituir o mesmo papel que antigamente era feito pelo cristalino. Existem muitos tipos e muitas marcas de lentes introculares, mas num resumo a gente diria que as lentes são do tipo monofocais ou do tipo multifocais. São dois grandes grupos. Dentro das lentes monofocais a gente tem as lentes tóricas e as lentes não tóricas. As lentes tóricas são para aqueles pacientes que possuem astigmatismo alto e querem corrigir só sua miopia, mas também o astigmatismo. As lentes não tóricas são para as pessoas que não têm astigmatismo. Já as lentes multifocais, elas são lentes principalmente de dois grandes grupos. As lentes de foco estendido são para pessoas que querem ter a visão de longe e a visão de meia distância. Como alguém que está dirigindo o carro, quer ver bem a pista e quer ver também o painel do carro. E tem as lentes trifocais, que são para pessoas que não querem mais usar óculos em nenhuma situação. Então elas dão visão boa para longe, para meia distância e para aberto. São as lentes trifocais. Sempre haverá a necessidade do seu médico conversar e avaliar o seu caso para decidir qual tipo de lente será utilizada. Eu sou o doutor João Braulio de Oliveira do oftalmos de hospital.",
     "caption": "",
     "notice": "Gravação real com o médico. Não se aplica o aviso de conteúdo gerado por IA.",
-    "visual": "Médico falando direto para a câmera, vertical."
+    "visual": "Médico falando direto para a câmera, vertical.",
+    "thumb": "assets/2026-10-27_JB3_thumb.png",
+    "thumb_nota": "Prévia montada a partir de um quadro da gravação. Não é a arte final do vídeo."
   },
   {
     "id": "I3",
